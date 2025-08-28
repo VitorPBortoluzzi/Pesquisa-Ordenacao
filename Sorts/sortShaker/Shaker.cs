@@ -3,12 +3,12 @@
 bool houveTroca = false;
 int tmp;
 int ini = 0;
-int fim = length.lista[~;
+int fim = lista.Count;
 int qtdTrocas = 0;
 int qtdComparacoes = 0;
 
 do {
-    houveTroca = false
+    houveTroca = false;
     for (int i=0; i< fim-1 ; i++){
         qtdComparacoes++;
         if(lista[i]> lista[i+1]){
