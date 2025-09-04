@@ -1,4 +1,1 @@
-# Avalização 7semana
-
-- Teoria
-- 
+## Avaliação dia 18/09

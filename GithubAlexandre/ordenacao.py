@@ -117,50 +117,50 @@ class Ordenacao:
                     
         return qtd_comparacoes, qtd_trocas
     
-    @staticmethod
-    def shell(lista):
-        n = len(lista)
-        qtd_comparacoes = 0 
-        qtd_trocas = 0
+#     @staticmethod
+#     def shell(lista):
+#         n = len(lista)
+#         qtd_comparacoes = 0 
+#         qtd_trocas = 0
         
-        referenciaTamanho = 3
+#         referenciaTamanho = 3
         
-        while(distancia > 1):
-            distancia = int(distancia / referenciaTamanho)
+#         while(distancia > 1):
+#             distancia = int(distancia / referenciaTamanho)
             
-            for i in range (distancia,n):
-                tmp = lista[i]
+#             for i in range (distancia,n):
+#                 tmp = lista[i]
                 
                 
     
     
-    void shell(Lista<> lista) {
-    int i, j;
-    int tmp;
-    int qtdComparacoes = 0, qtdTrocas = 0;
-    int distancia = 1;
+#     void shell(Lista<> lista) {
+#     int i, j;
+#     int tmp;
+#     int qtdComparacoes = 0, qtdTrocas = 0;
+#     int distancia = 1;
 
-    int referenciaTamanho = 3;
+#     int referenciaTamanho = 3;
 
-    do {
-        distancia = referenciaTamanho * distancia + 1;
-    } while (distancia < n);
+#     do {
+#         distancia = referenciaTamanho * distancia + 1;
+#     } while (distancia < n);
     
 
-    do {
-        distancia = (int)distancia / referenciaTamanho;
+#     do {
+#         distancia = (int)distancia / referenciaTamanho;
         
-        for (i = distancia; i < n; i++) {
-            tmp = vetor[i];
-            for (j = i - distancia; j >= 0; j = j - distancia) {
-                qtdComparacoes++;
-                if (tmp < vetor[j]) {
-                    vetor[j + distancia] = vetor[j];
-                    qtdTrocas++;
-                } else break;
-            }
-            vetor[j + distancia] = tmp;
-            qtdTrocas++;
-        }
-    } while (distancia > 1);
-}
+#         for (i = distancia; i < n; i++) {
+#             tmp = vetor[i];
+#             for (j = i - distancia; j >= 0; j = j - distancia) {
+#                 qtdComparacoes++;
+#                 if (tmp < vetor[j]) {
+#                     vetor[j + distancia] = vetor[j];
+#                     qtdTrocas++;
+#                 } else break;
+#             }
+#             vetor[j + distancia] = tmp;
+#             qtdTrocas++;
+#         }
+#     } while (distancia > 1);
+# }

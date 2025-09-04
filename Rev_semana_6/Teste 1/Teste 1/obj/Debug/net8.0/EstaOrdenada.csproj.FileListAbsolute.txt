@@ -1,0 +1,14 @@
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\bin\Debug\net8.0\EstaOrdenada.exe
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\bin\Debug\net8.0\EstaOrdenada.deps.json
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\bin\Debug\net8.0\EstaOrdenada.runtimeconfig.json
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\bin\Debug\net8.0\EstaOrdenada.dll
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\bin\Debug\net8.0\EstaOrdenada.pdb
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\EstaOrdenada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\EstaOrdenada.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\EstaOrdenada.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\EstaOrdenada.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\EstaOrdenada.dll
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\refint\EstaOrdenada.dll
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\EstaOrdenada.pdb
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\EstaOrdenada.genruntimeconfig.cache
+C:\Users\laboratorio\Desktop\Teste 1\Teste 1\obj\Debug\net8.0\ref\EstaOrdenada.dll
