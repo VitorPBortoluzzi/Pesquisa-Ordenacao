@@ -56,4 +56,7 @@ A Complexidade é avaliada com base no numero de operções que o algoritmo real
     ```
 
 ### Na sua linguagem de preferência, implemente (sem consulta) seu método escolhido para saber.  
-    [CombSortProgram](./CombSort/CombSort/Program.cs)
+[CombSortProgram](./CombSort/CombSort/Program.cs)
+
+
+### Na sua linguagme de preferência, re-escreva o código ordenacao_por_segunda_chave.py no github Alexandre de O. Zamberlan para ordenar em um dos métodos estudados usando como chave de ordenação 1 o nome do curso e chave de ordenação 2 o nome do aluno;

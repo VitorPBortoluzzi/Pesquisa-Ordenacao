@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombSort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+081081c97ff7e371c5383d52df73ad6360bbda13")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombSort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombSort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
