@@ -1,0 +1,6 @@
+Uma implementação comum de uma heap é a heap binária, no qual a árvore é uma árvore binária (veja a figura). A estrutura de dados da heap, especificamente a heap binária, foi introduzida por J. W. J. Williams em 1964, como uma estrutura de dados para o algoritmo de classificação heapsort.[3] Heaps também são cruciais em vários algoritmos de grafo eficientes, como o algoritmo de Dijkstra. Quando uma heap é uma árvore binária completa, ela possui a menor altura possível - uma heap com N nós e, para cada nó, a ramos, sempre possui altura de logaN.  
+
+Observe que, conforme mostrado no gráfico, não há ordenação implícita entre irmãos ou primos e nenhuma sequência implícita para um percurso em ordem (como haveria, por exemplo, uma árvore de pesquisa binária).[4][5] A relação de heap mencionada acima se aplica somente entre nós e seus pais, avós, etc. O número máximo de filhos que cada nó pode ter depende do tipo de heap.  
+
+Heapify
+Heapify: Em síntese, o heapify é uma operação que visa manter a invariante de um dado heap. Em um max heap, por exemplo, o heapify garante que os filhos de cada nó sejam menores ou iguais ao pai.[6]
