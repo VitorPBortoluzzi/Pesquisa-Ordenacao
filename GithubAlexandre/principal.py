@@ -11,7 +11,7 @@ lista_agitacao = []
 lista_pente = []
 
 lista_teste_bolha = [30,90,10,20,80,10,20,40,10]
-lista_teste_selecao = [30,90,10,20,80,10,20,40,10]
+lista_teste_quicksort = [30,90,10,20,80,10,20,40,10]
 lista_teste_pente = [30,90,10,20,80,10,20,40,10]
 
 
@@ -33,13 +33,14 @@ print("Tempo da rotina ordenar por pente: ", tempo_pente , "s")
 print('Comparacoes:', qtd_comparacoes)
 print('Trocas:', qtd_trocas)  
 
-tempoInicio = time.perf_counter()
-qtd_comparacoes, qtd_trocas = Ordenacao.selecao(lista_teste_selecao)
-tempoFim = time.perf_counter()
-tempo_selecao = tempoFim - tempoInicio
-print("Tempo da rotina ordenar por selecao: ", tempo_selecao , "s")      
-print('Comparacoes:', qtd_comparacoes)
-print('Trocas:', qtd_trocas)  
+qtd_comparacoes = 0
+qtd_trocas = 0
+tempo_inicio = time.perf_counter()
+Ordenacao.quicksort(lista_teste_quicksort, 0, len(lista_teste_quicksort) - 1)
+tempo_fim = time.perf_counter()
+print("Tempo da rotina ordenar por quick: ", (tempo_fim - tempo_inicio) , "s")      
+print('Comparacoes:', Ordenacao.qtd_comparacoes)
+print('Trocas:', Ordenacao.qtd_trocas)
 
 
 
