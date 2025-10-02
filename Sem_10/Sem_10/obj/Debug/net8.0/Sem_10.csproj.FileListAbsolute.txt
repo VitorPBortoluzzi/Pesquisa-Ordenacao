@@ -1,0 +1,15 @@
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.sourcelink.json
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\bin\Debug\net8.0\Sem_10.exe
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\bin\Debug\net8.0\Sem_10.deps.json
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\bin\Debug\net8.0\Sem_10.runtimeconfig.json
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\bin\Debug\net8.0\Sem_10.dll
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\bin\Debug\net8.0\Sem_10.pdb
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.dll
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\refint\Sem_10.dll
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.pdb
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\Sem_10.genruntimeconfig.cache
+C:\Users\laboratorio\Desktop\Nova Pasta\Pesquisa-Ordenacao\Sem_10\Sem_10\obj\Debug\net8.0\ref\Sem_10.dll

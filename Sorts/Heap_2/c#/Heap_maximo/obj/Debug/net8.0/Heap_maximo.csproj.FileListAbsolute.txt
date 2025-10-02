@@ -1,0 +1,14 @@
+C:\Users\laboratorio\source\repos\Heap_maximo\bin\Debug\net8.0\Heap_maximo.exe
+C:\Users\laboratorio\source\repos\Heap_maximo\bin\Debug\net8.0\Heap_maximo.deps.json
+C:\Users\laboratorio\source\repos\Heap_maximo\bin\Debug\net8.0\Heap_maximo.runtimeconfig.json
+C:\Users\laboratorio\source\repos\Heap_maximo\bin\Debug\net8.0\Heap_maximo.dll
+C:\Users\laboratorio\source\repos\Heap_maximo\bin\Debug\net8.0\Heap_maximo.pdb
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\Heap_maximo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\Heap_maximo.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\Heap_maximo.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\Heap_maximo.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\Heap_maximo.dll
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\refint\Heap_maximo.dll
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\Heap_maximo.pdb
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\Heap_maximo.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\Heap_maximo\obj\Debug\net8.0\ref\Heap_maximo.dll
